@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"proyecto.Factura"}],"uuid":"c0d834d8fc04478b837e18fca6a06e77"}
